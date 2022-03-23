@@ -86,12 +86,6 @@ Key things to note before running the script for the *first time*:
     python script.py
     ```
 
-## Authors
-
-Contributors names:
-
-* [Wangui](https://github.com/WanguiK) - developer
-
 ## Version History
 
 * 0.1
